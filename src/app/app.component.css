@@ -1,0 +1,21 @@
+  h1{
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+  }
+  .mainmenu {
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    color: #eee;
+    max-height: 60px;
+    min-width: 60px;
+    background-color: #607D8B;
+    border-radius: 2px;
+  }
+  .mainmenu:hover {
+    text-decoration: none;
+    background-color: #EEE;
+    cursor: pointer;
+    color: #607d8b;
+  }
